@@ -65,8 +65,8 @@ className="text-white focus:outline-none">
           <li><a href="#" className="text-white hover:text-cyan-500">Contact</a></li>
         </ul>
         <div className="mt-4">
-          <a href="#" className="bg-cyan-500 text-black px-4 py-2 
-          rounded-lg hover:bg-cyan-600">Sign Up</a>
+          <button href="#" className="bg-cyan-500 text-black px-4 py-2 
+          rounded-lg hover:bg-cyan-600">Sign Up</button>
         </div>
       </div>
     </div>

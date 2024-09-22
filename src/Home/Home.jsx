@@ -2,6 +2,7 @@ import Navbar from "../Component/Pages/Navbar/Navbar";
 
 import Banner from "../Component/Pages/Banner/Banner"
 import KeyFeatures from "../Component/Pages/KeyFetures/KeyFeatures" ;
+import About from "../Component/Pages/About/About";
 const Home = () => {
     return (
         <div>
@@ -12,6 +13,7 @@ const Home = () => {
             <div>
             <KeyFeatures></KeyFeatures>
             </div>
+            <About></About>
         </div>
     );
 };
