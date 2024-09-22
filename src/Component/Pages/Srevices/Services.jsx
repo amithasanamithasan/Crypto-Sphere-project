@@ -4,7 +4,7 @@ import investment from"../../../assets/public/image/services/Group 11.png"
 
 const Services = () => {
     return (
-        <div className="bg-[#251c69e7]  text-white">
+        <div className="bg-[#251c69e7]  text-white ">
 
     <div className="py-16 px-5 md:px-20">
         <div className="text-center mb-12">
@@ -12,7 +12,7 @@ const Services = () => {
             <p className="text-lg font-semibold text-gray-300 mt-4 ">Comprehensive Solutions to Meet All Your Cryptocurrency Needs</p>
         </div>
 
-        <div className="grid gap-10 md:gap-6 grid-cols-1 md:grid-cols-3">
+        <div className="grid gap-10 md:gap-6 grid-cols-1 md:grid-cols-3 overflow-auto">
          
             <div className=" border-l-4 border-cyan-600 pt-6 px-2">
                 <div className="flex  mb-4">
