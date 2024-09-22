@@ -15,7 +15,7 @@ const KeyFeatures = () => {
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3
          gap-12 px-4">
        
-            <div className="bg-[#251c69e7] rounded-lg p-8 text-center 
+            <div className=" rounded-lg p-8 text-center 
            border-l-4 border-cyan-400">
                 
                 <img src={Vector} alt=""  className="mx-auto mb-4 w-12 h-12"/>
@@ -32,7 +32,7 @@ const KeyFeatures = () => {
             </div>
     
       
-         <div className="bg-[#251c69e7]  rounded-lg p-8 text-center
+         <div className="  rounded-lg p-8 text-center
         border-l-4 border-cyan-400">
              
                 <img src={Vector1} alt="" className="mx-auto mb-4 w-12 h-12" />
@@ -48,7 +48,7 @@ const KeyFeatures = () => {
             </div> 
     
      
-            <div className="bg-[#251c69e7] rounded-lg p-8 text-center  border-l-4 border-cyan-400">
+            <div className=" rounded-lg p-8 text-center  border-l-4 border-cyan-400">
             
                 <img src={Vector2} alt="" className="mx-auto mb-4 w-12 h-12" />
                 <h3 className="text-xl font-bold text-white mb-4">Multi-Currency Support</h3>
