@@ -11,10 +11,10 @@ const Banner = () => {
             Join Crypto Sphere and Experience Secure, User-Friendly, 
             and Advanced Solutions for All Your Cryptocurrency Needs
           </p>
-          <div className="py-10">
-          <button    className="w-full md:w-[200px] lg:w-[200px] h-[60px] 
+          <div className="py-28">
+          <button    className=" w-full md:w-[150px]  h-[60px] 
           bg-gradient-to-r from-cyan-600 to-blue-400
-           text-white px-6 py-3 rounded-full font-semibold text-2xl" > 
+           text-white  rounded-full font-semibold text-2xl" > 
            Get Started</button>
           </div>
         </div>

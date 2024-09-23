@@ -7,6 +7,7 @@ import Services from "../Component/Pages/Srevices/Services";
 import PricingPlans from "../Component/Pages/Pricing/PricingPlans";
 import Frequently from "../Component/Pages/AskingQuestion/Frequently";
 import ContactUs from "../Component/Pages/Contact/ContactUs";
+import Footer from "../Component/Pages/Footer/Footer";
 const Home = () => {
     return (
         <div>
@@ -26,6 +27,9 @@ const Home = () => {
                 <Frequently></Frequently>
             </div>
             <ContactUs></ContactUs>
+            <div>
+                <Footer></Footer>
+            </div>
         </div>
     );
 };

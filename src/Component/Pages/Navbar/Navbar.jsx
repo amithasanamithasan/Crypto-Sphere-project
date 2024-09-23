@@ -1,4 +1,7 @@
+
+import logo from"../../../assets/public/image/LOGO/logo.png"
 import { useState } from 'react';
+
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -25,7 +28,7 @@ className="text-white focus:outline-none">
   </svg>
 </button>
 </div>
-          <img src="logo.png" alt="Crypto Sphere" className="h-10 md:text-center" />
+         <img src={logo} alt="Crypto Sphere" className="h-10 md:text-center" />
           <h1 className="ml-3 text-xl font-semibold text-cyan-400 md:text-center">Crypto</h1>
           <span className="ml-1 text-xl font-semibold text-cyan-200 md:text-center ">Sphere</span>
         </div>
@@ -65,7 +68,7 @@ className="text-white focus:outline-none">
           <li><a href="#" className="text-white hover:text-cyan-500">Contact</a></li>
         </ul>
         <div className="mt-4">
-          <button href="#" className="bg-cyan-500 text-black px-4 py-2 
+          <button  className="bg-cyan-500 text-black px-4 py-2 
           rounded-lg hover:bg-cyan-600">Sign Up</button>
         </div>
       </div>
