@@ -2,7 +2,8 @@
 -[installation Below Details]
 -[ command : git clone ](https://github.com/amithasanamithasan/Crypto-Sphere-project.git)
 
--[command : node -v ]( v18.17.1 )
+-[command : node -v ]
+ -(v18.17.1 )
 
 -[command : mpm install]
 
