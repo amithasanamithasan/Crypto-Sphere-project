@@ -1,6 +1,8 @@
 # React + Vite
 -[installation Below Details]
--[ command : git clone ](https://github.com/amithasanamithasan/Crypto-Sphere-project.git)
+
+-[ command : git clone ]
+-(https://github.com/amithasanamithasan/Crypto-Sphere-project.git)
 
 -[command : node -v ]
  -(v18.17.1 )
