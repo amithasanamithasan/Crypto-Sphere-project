@@ -12,7 +12,7 @@
 -[command version control: node -v ]
  -(v18.17.1 )
 
--[command : mpm install]
+-[command : npm install]
 
 -[command: npm run dev ]( localhost:  http://localhost:5173/)
 
