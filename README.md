@@ -1,7 +1,17 @@
 # React + Vite
 -[installation Below Details]
+-[ command : git clone ](https://github.com/amithasanamithasan/Crypto-Sphere-project.git)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-[command : node -v ]( v18.17.1 )
+
+-[command : mpm install]
+
+-[command: npm run dev ]( localhost:  http://localhost:5173/)
+
+
+
+
+
 
 Currently, two official plugins are available:
 
