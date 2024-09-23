@@ -1,7 +1,7 @@
 const Frequently = () => {
   return (
     <div className=" bg-[#251c69e7]">
-    <div className="px-8 lg:px-[200px] mx-auto  md:px[196px] py-10 w-full lg:w-[1047px] ">
+    <div className="px-5 lg:px-[200px] mx-auto  md:px[196px] py-10 w-full lg:w-[1047px] ">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-5xl font-bold text-white">Frequently Asked Questions</h2>
         <p className="text-lg text-gray-300 font-semibold mt-4">Your Questions Answered</p>

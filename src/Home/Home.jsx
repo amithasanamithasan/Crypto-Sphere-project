@@ -6,6 +6,7 @@ import About from "../Component/Pages/About/About";
 import Services from "../Component/Pages/Srevices/Services";
 import PricingPlans from "../Component/Pages/Pricing/PricingPlans";
 import Frequently from "../Component/Pages/AskingQuestion/Frequently";
+import ContactUs from "../Component/Pages/Contact/ContactUs";
 const Home = () => {
     return (
         <div>
@@ -24,6 +25,7 @@ const Home = () => {
             <div>
                 <Frequently></Frequently>
             </div>
+            <ContactUs></ContactUs>
         </div>
     );
 };
