@@ -1,6 +1,11 @@
-# React + Vite
--[installation Below Details]
+# Crypto-Sphere-project completed Frontend Development
+### Packages.json used in this project:
 
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [tailwindcss](https://tailwindcss.com/docs/guides/vite)
+- [react-icons](https://www.npmjs.com/package/react-icons)
+  
+- ### installation Below Details
 -[ command : git clone ]
 -(https://github.com/amithasanamithasan/Crypto-Sphere-project.git)
 
