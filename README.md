@@ -3,6 +3,7 @@
 
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [tailwindcss](https://tailwindcss.com/docs/guides/vite)
+- [daisyui](https://daisyui.com/docs/install/)
 - [react-icons](https://www.npmjs.com/package/react-icons)
   
 - ### installation Below Details
