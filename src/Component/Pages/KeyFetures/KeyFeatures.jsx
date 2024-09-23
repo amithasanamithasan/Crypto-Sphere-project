@@ -8,7 +8,7 @@ const KeyFeatures = () => {
     return (
         <div className="bg-[#251c69e7] py-16 overflow-auto">
         <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-white">Key Features</h2>
+            <h2 className=" text-3xl md:text-5xl font-bold text-white">Key Features</h2>
             <p className="text-lg text-gray-200 font-semibold mt-4">Explore the Benefits of Using Crypto Sphere</p>
         </div>
     

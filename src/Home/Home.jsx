@@ -5,6 +5,7 @@ import KeyFeatures from "../Component/Pages/KeyFetures/KeyFeatures" ;
 import About from "../Component/Pages/About/About";
 import Services from "../Component/Pages/Srevices/Services";
 import PricingPlans from "../Component/Pages/Pricing/PricingPlans";
+import Frequently from "../Component/Pages/AskingQuestion/Frequently";
 const Home = () => {
     return (
         <div>
@@ -20,6 +21,9 @@ const Home = () => {
                 <Services></Services>
             </div>
             <PricingPlans></PricingPlans>
+            <div>
+                <Frequently></Frequently>
+            </div>
         </div>
     );
 };
